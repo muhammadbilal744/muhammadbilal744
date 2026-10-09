@@ -108,9 +108,9 @@ A retail data analysis project focused on exploring customer and sales data.
 - [x] Python programming fundamentals
 - [x] Object-Oriented Programming practice
 - [x] Data analysis and visualization projects
-- [ ] Advanced data analysis with Pandas and NumPy
-- [ ] SQL and PostgreSQL
-- [ ] Machine Learning fundamentals
+- [x] Advanced data analysis with Pandas and NumPy
+- [x] PostgreSQL
+- [x] Machine Learning fundamentals
 - [ ] End-to-end Data Science projects
 
 ---
